@@ -1,0 +1,32 @@
+body{
+    background-color: orange;
+}
+
+#show_sketch{
+    float: right;
+}
+
+#ys{
+    font-size: 18px;
+}
+
+#c{
+    font-size: 18px;
+}
+
+#stbd{
+    font-size: 24px;
+    color:black;
+    
+}
+
+#s{
+    font-size: 18px;
+    margin: left;
+}
+
+#t{
+    font-size: 18px;
+    margin: right;
+}
+
